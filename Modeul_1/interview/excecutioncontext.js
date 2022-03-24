@@ -4,13 +4,19 @@
 
 // console.log('hi');
 
-var a = 10;
+// var a = 10;
 
-function fun() {
-    var b = 20;
-    console.log(20);
+// function fun() {
+//     var b = 20;
+//     console.log(20);
+// }
+// console.log(a);
+
+// var c = 20;
+// fun();
+
+function();
+var fun = function() {
+    console.log("Hello ");
 }
-console.log(a);
-
-var c = 20;
 fun();
