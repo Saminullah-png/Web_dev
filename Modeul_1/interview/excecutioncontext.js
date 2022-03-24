@@ -15,7 +15,7 @@
 // var c = 20;
 // fun();
 
-function();
+// function();
 var fun = function() {
     console.log("Hello ");
 }
